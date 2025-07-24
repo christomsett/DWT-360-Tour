@@ -65,7 +65,7 @@ var APP_DATA = {
           "yaw": -0.12003949094304289,
           "pitch": -0.004580162593349257,
           "title": "Butterflies",
-          "text": "<div><img src=\"https://res-console.cloudinary.com/dapxot2mu/thumbnails/v1/image/upload/v1753354424/OV9HcmVlbl9oYWlyc3RyZWFrX0Jlbl9BdGtpbnNvbl9fX2hhbGZfY3JvcHBlZF9DdXN0b21fY2Mxc2cw/drilldown\" alt=\"9_Green_hairstreak_Ben_Atkinson___half_cropped_Custom_cc1sg0\">Green hairstreak butterflies can be spotted on the downland slopes of this SSSI, where their caterpillar foodplant grows<font face=\"Aptos, sans-serif\"><span style=\"font-size: 16px;\">.</span></font></div>"
+          "text": "<div><img src=\"https://res.cloudinary.com/dapxot2mu/image/upload/v1753354424/9_Green_hairstreak_Ben_Atkinson___half_cropped_Custom_cc1sg0.jpg" alt=\"9_Green_hairstreak_Ben_Atkinson___half_cropped_Custom_cc1sg0\">Green hairstreak butterflies can be spotted on the downland slopes of this SSSI, where their caterpillar foodplant grows<font face=\"Aptos, sans-serif\"><span style=\"font-size: 16px;\">.</span></font></div>"
         }
       ]
     },
@@ -134,7 +134,7 @@ var APP_DATA = {
           "yaw": -0.25830442057939784,
           "pitch": -0.0006934406985870112,
           "title": "Common orchids spotted in the Bowl",
-          "text": "<img src=\"https://res-console.cloudinary.com/dapxot2mu/thumbnails/v1/image/upload/v1753345923/M19Db21tb25fc3BvdHRlZF9vcmNoaWRzX2luX3RoZV9ib3dsX0Jlbl9BdGtpbnNvbl9jcm9wcGVkX0N1c3RvbV8yX2pqcXpwbA==/drilldown\" alt=\"3_Common_spotted_orchids_in_the_bowl_Ben_Atkinson_cropped_Custom_2_jjqzpl\">"
+          "text": "<img src=\"https://res.cloudinary.com/dapxot2mu/image/upload/v1753346007/3_Common_spotted_orchids_in_the_bowl_Ben_Atkinson_cropped_Custom_3_rdhten.jpg" alt=\"3_Common_spotted_orchids_in_the_bowl_Ben_Atkinson_cropped_Custom_2_jjqzpl\">"
         }
       ]
     },
@@ -197,13 +197,13 @@ var APP_DATA = {
           "yaw": -0.9752229346062098,
           "pitch": -0.30369968336548325,
           "title": "Duke of burgundy",
-          "text": "<p class=\"MsoNormal\"><img src=\"https://res-console.cloudinary.com/dapxot2mu/thumbnails/v1/image/upload/v1753352824/RHVrZV9vZl9CdXJndW5keV9KYW1lc19DYXJ0d3JpZ2h0X19feWVsbG93X2Nyb3BwZWRfQ3VzdG9tX2JvdWp2eQ==/drilldown\" alt=\"Duke_of_Burgundy_James_Cartwright___yellow_cropped_Custom_boujvy\" style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\"></p><p class=\"MsoNormal\"><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\">Over this hill is a known colony of the endangered Duke\nof burgandy butterfly, one of the rarest butterflies in the UK, found\nin only a handful of sites in Dorset.&nbsp;</span></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\">Work is underway to encourage these\nbutterflies to spread onto Lyscombe to help secure their future.</p>"
+          "text": "<p class=\"MsoNormal\"><img src=\"https://res.cloudinary.com/dapxot2mu/image/upload/v1753352824/Duke_of_Burgundy_James_Cartwright___yellow_cropped_Custom_boujvy.jpg" alt=\"Duke_of_Burgundy_James_Cartwright___yellow_cropped_Custom_boujvy\" style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\"></p><p class=\"MsoNormal\"><span style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\">Over this hill is a known colony of the endangered Duke\nof burgandy butterfly, one of the rarest butterflies in the UK, found\nin only a handful of sites in Dorset.&nbsp;</span></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\">Work is underway to encourage these\nbutterflies to spread onto Lyscombe to help secure their future.</p>"
         },
         {
           "yaw": -0.08507541509397143,
           "pitch": -0.1748219832540805,
           "title": "Marsh fritillary",
-          "text": "<div><p class=\"MsoNormal\"><span lang=\"EN-US\">One of the\nrarest butterflies in the UK, the marsh fritillary, can be found on the downland here.&nbsp;</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img src=\"https://res-console.cloudinary.com/dapxot2mu/thumbnails/v1/image/upload/v1753345764/NF9KYW1lc19DYXJ0d3JpZ2h0X01hcnNoX0ZyaXRpbGxhcnlfX19jcm9wZWRfcmVzaXplZF9ic3B2a3M=/drilldown\" alt=\"4_James_Cartwright_Marsh_Fritillary___croped_resized_bspvks\"></span></p></div>"
+          "text": "<div><p class=\"MsoNormal\"><span lang=\"EN-US\">One of the\nrarest butterflies in the UK, the marsh fritillary, can be found on the downland here.&nbsp;</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img src=\"https://res.cloudinary.com/dapxot2mu/image/upload/v1753345764/4_James_Cartwright_Marsh_Fritillary___croped_resized_bspvks.png" alt=\"4_James_Cartwright_Marsh_Fritillary___croped_resized_bspvks\"></span></p></div>"
         }
       ]
     },
