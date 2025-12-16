@@ -246,7 +246,7 @@ var APP_DATA = {
           "yaw": 2.320744200019746,
           "pitch": 0.055601815786902264,
           "rotation": 0,
-          "target": "5-priest-house
+          "target": "5-priest-house"
         },
         {
           "yaw": 1.984146199253261,
@@ -322,7 +322,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "5-priest-house,
+      "id": "5-priest-house",
       "name": "Priest House",
       "levels": [
         {
