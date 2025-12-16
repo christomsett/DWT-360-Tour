@@ -48,15 +48,7 @@ a, a:hover, a:active, a:visited {
   left: 0;
   right: 40px;
   height: 40px;
-  text-align: center;
-
-  /* Add styling */
-  background-color: #e2d8c8;   /* dark header background */
-  color: #3c3c3b;              /* light text color */
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-  line-height: 40px;           /* vertically center text */
-  border-bottom: 2px solid #e74c3c; /* accent line */
+  text-align: center,
 }
 
 .mobile #titleBar {
@@ -215,8 +207,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(231,97,65);
+  #background-color: rgba(103,115,131,0.8);
 }
 
 .mobile #sceneListToggle {
