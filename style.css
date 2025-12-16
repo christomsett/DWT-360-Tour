@@ -49,6 +49,14 @@ a, a:hover, a:active, a:visited {
   right: 40px;
   height: 40px;
   text-align: center;
+
+  /* Add styling */
+  background-color: #e2d8c8;   /* dark header background */
+  color: #3c3c3b;              /* light text color */
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 40px;           /* vertically center text */
+  border-bottom: 2px solid #e74c3c; /* accent line */
 }
 
 .mobile #titleBar {
