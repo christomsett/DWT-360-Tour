@@ -323,7 +323,7 @@ var APP_DATA = {
     },
     {
       "id": "5-chapel",
-      "name": "Chapel",
+      "name": "Priest House",
       "levels": [
         {
           "tileSize": 256,
