@@ -838,9 +838,15 @@ body.view-control-buttons .viewControlButton {
   color: #ffffff;
 }
 
-/* Make desktop info popups taller (especially for images) */
+/* Desktop info hotspot size fix */
 .desktop .info-hotspot .info-hotspot-text {
   max-height: 400px;
-  height: auto;
   overflow-y: auto;
+}
+
+/* Ensure images scale correctly */
+.info-hotspot .info-hotspot-text img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
