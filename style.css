@@ -379,7 +379,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   background-color: rgb(58,68,84);
   background-color: rgba(58,68,84,0.8);
 
-  color: #fff;
+  color: #e76141;
 
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -827,4 +827,13 @@ body.view-control-buttons .viewControlButton {
 }
 .viewControlButton-6 {
   margin-left: 105px;
+}
+
+/* === Custom popup text colours === */
+
+.info-hotspot .info-hotspot-text,
+.info-hotspot-modal .info-hotspot-text,
+.info-hotspot .info-hotspot-title,
+.info-hotspot-modal .info-hotspot-title {
+  color: #ffffff;
 }
